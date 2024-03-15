@@ -7,7 +7,7 @@ fetch multiple PDF files concurrently, which can reduce the overall execution ti
 	composer require guzzlehttp/guzzle tecnickcom/tcpdf setasign/fpdi setasign/fpdf
 3. You might be enabled any php extension from php.ini if required.
 
-Below is the result
-code start execute: 2024-03-13 04:56:44:
-PDFs merged successfully into merged.pdf
-code stopped execute: 2024-03-13 04:56:46:
+Below is the result <br>
+code start execute: 2024-03-13 04:56:44:<br>
+PDFs merged successfully into merged.pdf<br>
+code stopped execute: 2024-03-13 04:56:46:<br>
