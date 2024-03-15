@@ -3,8 +3,8 @@ fetch multiple PDF files concurrently, which can reduce the overall execution ti
 
 
 1. Please install composre if not or update the composer
-2. Then Please install guzzlehttp,tcpdf,fpdi,fpdf buy below command
-	composer require guzzlehttp/guzzle tecnickcom/tcpdf setasign/fpdi setasign/fpdf
+2. Then Please install guzzlehttp,tcpdf,fpdi,fpdf buy below command<br>
+	<b>composer require guzzlehttp/guzzle tecnickcom/tcpdf setasign/fpdi setasign/fpdf </b>
 3. You might be enabled any php extension from php.ini if required.
 
 Below is the result <br>
